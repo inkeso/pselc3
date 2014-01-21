@@ -5,6 +5,8 @@ This is a simple gtk2-gui for browsing & watching recorded lectures of the [Chao
 It simply lists all video-files & shows the description from the corresponding C3-wiki.
 A video can then be played directly from the server (using mplayer, vlc or whatever mediaplayer you use)
 
+![Screenshot](screenie.png "Screenshot")
+
 It was intended as a lightweight, fast and easy interface to watch all the lectures on a mediacenter without using a browser.
 
 Currently, there are two "configurations" available: for the 29C3 and 30C3. 
