@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # include different GTK-file (e.g. with larger fonts)
-import sys, os
-os.environ["GTK2_RC_FILES"] = os.path.join(sys.path[0],"gtk_clear")
+#import sys, os
+#os.environ["GTK2_RC_FILES"] = os.path.join(sys.path[0],"gtk_clear")
 
 import pselc3_gtk
 
