@@ -1,5 +1,12 @@
 # pselc3
 
+**THIS IS NOW OBSOLETE**
+
+I'll keep this repo for reference, but it no longer is useful. Just checkout [Pselect](https://github.com/inkeso/pselect) and start `c3tv_standalone.py`. It provides same (and more!) functionality.
+
+
+--------------------------
+
 This is a simple gtk2-gui for browsing & watching recorded lectures of the [Chaos Communiction Congress(es)](http://events.ccc.de/congress/).
 
 It simply lists all video-files & shows the description from the corresponding C3-wiki.
